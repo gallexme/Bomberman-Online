@@ -3,5 +3,17 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Slick1"/>
+	<classpathentry kind="lib" path="/Slick1/lib/ibxm.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/jinput.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/jnlp.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/natives-linux.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/natives-mac.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/natives-windows.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/tinylinepp.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
