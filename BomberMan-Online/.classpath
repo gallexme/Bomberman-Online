@@ -10,10 +10,15 @@
 	<classpathentry kind="lib" path="/Slick1/lib/jorbis-0.0.15.jar"/>
 	<classpathentry kind="lib" path="/Slick1/lib/lwjgl_util_applet.jar"/>
 	<classpathentry kind="lib" path="/Slick1/lib/lwjgl_util.jar"/>
-	<classpathentry kind="lib" path="/Slick1/lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Slick1"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="lib" path="/Slick1/lib/natives-linux.jar"/>
 	<classpathentry kind="lib" path="/Slick1/lib/natives-mac.jar"/>
 	<classpathentry kind="lib" path="/Slick1/lib/natives-windows.jar"/>
 	<classpathentry kind="lib" path="/Slick1/lib/tinylinepp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fabi/Downloads/lwjgl-2.8.3/lwjgl-2.8.3/jar/lwjgl.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
