@@ -19,7 +19,6 @@ public class Game extends BasicGame {
 	public Game() {
 		super("one class barebone game");
 	}
- 
 	public void init(GameContainer container) throws SlickException {
 		container.setVSync(true);
 		SpriteSheet sheet = new SpriteSheet("res/karbonator.png",32,32);
@@ -53,6 +52,7 @@ public class Game extends BasicGame {
 			if (entityCollisionWith()){
 				playerX--;
 				playerPoly.setX(playerX);
+				
 			}
 		}
 		if (container.getInput().isKeyDown(Input.KEY_UP)) {

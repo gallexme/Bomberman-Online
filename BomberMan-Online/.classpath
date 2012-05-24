@@ -20,5 +20,7 @@
 	<classpathentry kind="lib" path="/Slick1/lib/natives-windows.jar"/>
 	<classpathentry kind="lib" path="/Slick1/lib/tinylinepp.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Fabi/Downloads/lwjgl-2.8.3/lwjgl-2.8.3/jar/lwjgl.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/slick-examples.jar"/>
+	<classpathentry kind="lib" path="/Slick1/lib/slick.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
